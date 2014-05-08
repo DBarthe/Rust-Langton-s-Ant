@@ -1,0 +1,6 @@
+[submodule "rust-mk"]
+	path = rust-mk
+	url = git://github.com/KokaKiwi/rust-mk.git
+[submodule "rust-sdl"]
+	path = rust-sdl
+	url = https://github.com/brson/rust-sdl.git

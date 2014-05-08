@@ -7,8 +7,8 @@ Usage
 -----
 
 ~~~bash
-$ ./langton-ant -h
-Usage: ./langton-ant [options]
+$ ./main -h
+Usage: ./main [options]
 
 Langton's Ant rust implementation.
 
