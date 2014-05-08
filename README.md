@@ -3,6 +3,7 @@ Rust-Langton-s-Ant
 
 Try Rust with a Langton's Ant implementation.
 
+
 Usage
 -----
 
@@ -20,5 +21,17 @@ Options:
     -r --refresh TIME   interval between each refresh (ms)
     -c --cycle TIME     interval between each cycle (ms)
     -h --help           display this help
+
+~~~
+
+Compilation
+-----
+
+libsdl-dev is required.
+
+~~~bash
+$ git submodule init
+$ git submodule update
+$ make
 
 ~~~

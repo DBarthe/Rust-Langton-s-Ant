@@ -1,7 +1,7 @@
 RUSTCRATES				=   langton-ant sdl
 
-langton-ant_CRATE_DEPS	+=	sdl	 
-
+langton-ant_CRATE_DEPS	+=	sdl	
+ 
 sdl_ROOTDIR				=	rust-sdl/
 sdl_TYPE				=	lib
 
