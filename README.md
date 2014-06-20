@@ -11,7 +11,7 @@ Usage
 $ ./main -h
 Usage: ./main [options]
 
-Langton's Ant rust implementation.
+Langton's Ant implementation in Rust.
 
 Options:
     -m --map-size WIDTHxHEIGHT
